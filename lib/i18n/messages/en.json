@@ -1,0 +1,37 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "products": "Products",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "title": "DL Engine - Powering Future Technology",
+    "subtitle": "We provide cutting-edge AI solutions to drive digital transformation for enterprises",
+    "cta": "Explore Products",
+    "secondary": "Contact Us"
+  },
+  "Products": {
+    "title": "Our Products",
+    "subtitle": "Discover our innovative solutions",
+    "aiPlatform": {
+      "title": "AI Platform",
+      "description": "All-in-one AI development and deployment platform"
+    },
+    "dataAnalytics": {
+      "title": "Data Analytics",
+      "description": "Intelligent data insights and visualization"
+    },
+    "cloudServices": {
+      "title": "Cloud Services",
+      "description": "Secure and reliable cloud computing solutions"
+    }
+  },
+  "LatestArticles": {
+    "title": "Latest Articles",
+    "readMore": "Read More"
+  },
+  "Footer": {
+    "copyright": "© 2024 DL Engine. All rights reserved."
+  }
+}

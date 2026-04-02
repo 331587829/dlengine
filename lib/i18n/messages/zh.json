@@ -1,0 +1,37 @@
+{
+  "Navigation": {
+    "home": "首页",
+    "products": "产品",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "Hero": {
+    "title": "DL Engine - 驱动未来科技",
+    "subtitle": "我们致力于为企业提供最先进的 AI 解决方案，助力数字化转型",
+    "cta": "了解产品",
+    "secondary": "联系我们"
+  },
+  "Products": {
+    "title": "我们的产品",
+    "subtitle": "探索我们的创新解决方案",
+    "aiPlatform": {
+      "title": "AI 平台",
+      "description": "一站式 AI 开发与部署平台"
+    },
+    "dataAnalytics": {
+      "title": "数据分析",
+      "description": "智能数据洞察与可视化"
+    },
+    "cloudServices": {
+      "title": "云服务",
+      "description": "安全可靠的云计算解决方案"
+    }
+  },
+  "LatestArticles": {
+    "title": "最新文章",
+    "readMore": "阅读更多"
+  },
+  "Footer": {
+    "copyright": "© 2024 DL Engine. 保留所有权利。"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "dlengine.com",
+  "version": "1.0.2",
+  "description": "DL Engine 官方网站 - 现代化企业官网",
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "nextjs",
+    "react",
+    "typescript",
+    "tailwindcss",
+    "graphql"
+  ],
+  "author": "DL Engine Team",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^25.5.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "glob": "^13.0.6",
+    "graphql-request": "^7.4.0",
+    "next": "^16.2.1",
+    "next-intl": "^4.8.3",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.27",
+    "eslint": "^10.1.0",
+    "eslint-config-next": "^16.2.1",
+    "postcss": "^8.5.8",
+    "prettier": "^3.8.1",
+    "tailwindcss": "^4.2.2"
+  }
+}
